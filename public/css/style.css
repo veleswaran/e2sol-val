@@ -32,11 +32,23 @@
     border-radius: 20px;
     margin-right: 20px;
 }
-
+.cor-main{
+	position: relative;
+}
 .icon-styled {
 	display: inline-block;
 	line-height: 1;
 	text-align: center;
+}
+
+.carousel-indicators{
+	bottom: 30px !important;
+}
+
+.carousel-indicators button{
+	border: none;
+	margin-left: 5px;
+	width: 25px;
 }
 @-webkit-keyframes bubble {
 	0%,
