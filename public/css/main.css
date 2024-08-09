@@ -315,7 +315,7 @@ p:last-child:after {
 
 img,
 figure {
-	height: auto;
+	/* height: auto; */
 	max-width: 100%;
 }
 
@@ -11366,7 +11366,7 @@ img {
 
 /* animated elements */
 .animate {
-	visibility: hidden;
+	visibility: visible;
 }
 
 .no-js .animate,

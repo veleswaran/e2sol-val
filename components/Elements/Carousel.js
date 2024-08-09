@@ -1,5 +1,6 @@
 import React, { useEffect, useState } from "react";
 import Image from "next/image";
+import Link from "next/link";
 import "bootstrap/dist/css/bootstrap.min.css";
 
 const Carousel = () => {
@@ -51,16 +52,16 @@ const Carousel = () => {
               <h2 className="text-capitalize intro_featured_word">
                 Vital Oil & Natural Gas
               </h2>
-              <a
+              <Link
                 href="#"
                 className="btn btn-outline-light big-btn border-light bt-1"
               >
                 Get a Quote
-              </a>
+              </Link>
               <span className="text-divider">or</span>
-              <a href="#" className="btn">
+              <Link href="#" className="btn">
                 Request a Callback
-              </a>
+              </Link>
             </div>
           </div>
         )}

@@ -1,37 +1,37 @@
 const Header1 = () => {
   return (
     <>
-      <div class="header_absolute">
-        <header class="page_header_side header_slide header-special header_side_right ds">
-          <div class="scrollbar-macosx">
-            <div class="side_header_inner">
-              <p class="text-right mb-0 close-wrapper">
+      <div className="header_absolute">
+        <header className="page_header_side header_slide header-special header_side_right ds">
+          <div className="scrollbar-macosx">
+            <div className="side_header_inner">
+              <p className="text-right mb-0 close-wrapper">
                 <a href="javascript:void(0)">×</a>
               </p>
 
-              <div class="widget widget_recent_posts">
-                <h3 class="widget-title">Our news</h3>
-                <ul class="list-unstyled">
-                  <li class="media">
-                    <article class="vertical-item post type-post status-publish format-standard has-post-thumbnail">
-                      <div class="item-content">
-                        <div class="entry-header">
-                          <div class="entry-meta">
-                            <div class="byline">
-                              <span class="date">
-                                <a href="blog-@@type.html" rel="bookmark">
+              <div className="widget widget_recent_posts">
+                <h3 className="widget-title">Our news</h3>
+                <ul className="list-unstyled">
+                  <li className="media">
+                    <article className="vertical-item post type-post status-publish format-standard has-post-thumbnail">
+                      <div className="item-content">
+                        <div className="entry-header">
+                          <div className="entry-meta">
+                            <div className="byline">
+                              <span className="date">
+                                <a href="#" rel="bookmark">
                                   <time
-                                    class="published entry-date"
-                                    datetime="2019-04-09T12:23:09+00:00"
+                                    className="published entry-date"
+                                    date-time="2019-04-09T12:23:09+00:00"
                                   >
                                     20.03.2019
                                   </time>
                                 </a>
                               </span>
-                              <span class="author vcard">
+                              <span className="author vcard">
                                 <a
-                                  class="url fn n"
-                                  href="blog-@@type.html"
+                                  className="url fn n"
+                                  href="#"
                                   rel="author"
                                 >
                                   <span>by</span> Admin
@@ -39,8 +39,8 @@ const Header1 = () => {
                               </span>
                             </div>
                           </div>
-                          <h4 class="entry-title">
-                            <a href="blog-single-@@type.html" rel="bookmark">
+                          <h4 className="entry-title">
+                            <a href="#" rel="bookmark">
                               Adipisicing elit sed do eiusmod
                             </a>
                           </h4>
@@ -48,26 +48,26 @@ const Header1 = () => {
                       </div>
                     </article>
                   </li>
-                  <li class="media">
-                    <article class="vertical-item post type-post status-publish format-standard has-post-thumbnail">
-                      <div class="item-content">
-                        <div class="entry-header">
-                          <div class="entry-meta">
-                            <div class="byline">
-                              <span class="date">
-                                <a href="blog-@@type.html" rel="bookmark">
+                  <li className="media">
+                    <article className="vertical-item post type-post status-publish format-standard has-post-thumbnail">
+                      <div className="item-content">
+                        <div className="entry-header">
+                          <div className="entry-meta">
+                            <div className="byline">
+                              <span className="date">
+                                <a href="#" rel="bookmark">
                                   <time
-                                    class="published entry-date"
-                                    datetime="2019-04-09T12:23:09+00:00"
+                                    className="published entry-date"
+                                    date-time="2019-04-09T12:23:09+00:00"
                                   >
                                     20.03.2019
                                   </time>
                                 </a>
                               </span>
-                              <span class="author vcard">
+                              <span className="author vcard">
                                 <a
-                                  class="url fn n"
-                                  href="blog-@@type.html"
+                                  className="url fn n"
+                                  href="#"
                                   rel="author"
                                 >
                                   <span>by</span> Admin
@@ -75,8 +75,8 @@ const Header1 = () => {
                               </span>
                             </div>
                           </div>
-                          <h4 class="entry-title">
-                            <a href="blog-single-@@type.html" rel="bookmark">
+                          <h4 className="entry-title">
+                            <a href="#" rel="bookmark">
                               Adipisicing elit sed do eiusmod
                             </a>
                           </h4>
@@ -84,26 +84,26 @@ const Header1 = () => {
                       </div>
                     </article>
                   </li>
-                  <li class="media">
-                    <article class="vertical-item post type-post status-publish format-standard has-post-thumbnail">
-                      <div class="item-content">
-                        <div class="entry-header">
-                          <div class="entry-meta">
-                            <div class="byline">
-                              <span class="date">
-                                <a href="blog-@@type.html" rel="bookmark">
+                  <li className="media">
+                    <article className="vertical-item post type-post status-publish format-standard has-post-thumbnail">
+                      <div className="item-content">
+                        <div className="entry-header">
+                          <div className="entry-meta">
+                            <div className="byline">
+                              <span className="date">
+                                <a href="#" rel="bookmark">
                                   <time
-                                    class="published entry-date"
-                                    datetime="2019-04-09T12:23:09+00:00"
+                                    className="published entry-date"
+                                    date-time="2019-04-09T12:23:09+00:00"
                                   >
                                     20.03.2019
                                   </time>
                                 </a>
                               </span>
-                              <span class="author vcard">
+                              <span className="author vcard">
                                 <a
-                                  class="url fn n"
-                                  href="blog-@@type.html"
+                                  className="url fn n"
+                                  href="#"
                                   rel="author"
                                 >
                                   <span>by</span> Admin
@@ -111,8 +111,8 @@ const Header1 = () => {
                               </span>
                             </div>
                           </div>
-                          <h4 class="entry-title">
-                            <a href="blog-single-@@type.html" rel="bookmark">
+                          <h4 className="entry-title">
+                            <a href="#" rel="bookmark">
                               Adipisicing elit sed do eiusmod
                             </a>
                           </h4>
@@ -122,53 +122,54 @@ const Header1 = () => {
                   </li>
                 </ul>
               </div>
-              <div class="widget widget_about">
-                <h3 class="widget-title">About</h3>
+              <div className="widget widget_about">
+                <h3 className="widget-title">About</h3>
                 <p>
                   Excepteur sint occaecat cupidatat non proident, sunt in culpa
                   qui officia deserunt mollit anim id est laborum. Sed ut
                   perspiciatis unde.
                 </p>
               </div>
-              <div class="widget widget_mailchimp">
-                <h3 class="widget-title">Newsletter</h3>
+              <div className="widget widget_mailchimp">
+                <h3 className="widget-title">Newsletter</h3>
 
-                <form class="signup" action="/">
-                  <label for="mailchimp_email88d">
-                    <span class="screen-reader-text">Subscribe:</span>
+                <form className="signup" action="/">
+                  <label htmlFor="mailchimp_email88d">
+                    <span className="screen-reader-text">Subscribe:</span>
                   </label>
                   <input
                     id="mailchimp_email88d"
                     name="email"
                     type="email"
-                    class="form-control mailchimp_email has-placeholder"
+                    className="form-control mailchimp_email has-placeholder"
                     placeholder="Email"
+                    readOnly
                   />
-                  <button type="submit" class="search-submit">
-                    <span class="screen-reader-text">Subscribe</span>
+                  <button type="submit" className="search-submit">
+                    <span className="screen-reader-text">Subscribe</span>
                   </button>
-                  <div class="response"></div>
+                  <div className="response"></div>
                 </form>
               </div>
-              <div class="widget widget_social_icons">
+              <div className="widget widget_social_icons">
                 <a
                   href="#"
-                  class="fab fa-facebook-f rounded-icon bg-icon fs-16"
+                  className="fab fa-facebook-f rounded-icon bg-icon fs-16"
                   title="facebook"
                 ></a>
                 <a
                   href="#"
-                  class="fab fa-twitter rounded-icon bg-icon fs-16"
+                  className="fab fa-twitter rounded-icon bg-icon fs-16"
                   title="telegram"
                 ></a>
                 <a
                   href="#"
-                  class="fab fa-linkedin-in rounded-icon bg-icon fs-16"
+                  className="fab fa-linkedin-in rounded-icon bg-icon fs-16"
                   title="linkedin"
                 ></a>
                 <a
                   href="#"
-                  class="fab fa-instagram rounded-icon bg-icon fs-16"
+                  className="fab fa-instagram rounded-icon bg-icon fs-16"
                   title="instagram"
                 ></a>
               </div>
@@ -176,150 +177,150 @@ const Header1 = () => {
           </div>
         </header>
 
-        <header class="page_header header-1 ds bg-transparent s-py-xl-20 s-py-10">
-          <div class="container-fluid">
-            <div class="row d-flex align-items-center justify-content-center">
-              <div class="col-xl-3 col-md-4 col-12 text-center">
-                <a href="./" class="logo">
+        <header className="page_header header-1 ds bg-transparent s-py-xl-20 s-py-10">
+          <div className="container-fluid">
+            <div className="row d-flex align-items-center justify-content-center">
+              <div className="col-xl-3 col-md-4 col-12 text-center">
+                <a href="#" className="logo">
                   <img src="images/logo.png" alt="" />
-                  <span class="d-flex flex-column">
-                    <span class="logo-text color-darkgrey">nafta</span>
-                    <span class="logo-subtext">oil & gas industry</span>
+                  <span className="d-flex flex-column">
+                    <span className="logo-text color-darkgrey">nafta</span>
+                    <span className="logo-subtext">oil & gas industry</span>
                   </span>
                 </a>
               </div>
-              <div class="col-xl-6 col-1 text-right">
-                <nav class="top-nav">
-                  <ul class="nav sf-menu">
-                    <li class="active">
-                      <a href="index.html">Home</a>
+              <div className="col-xl-6 col-1 text-right">
+                <nav className="top-nav">
+                  <ul className="nav sf-menu">
+                    <li className="active">
+                      <a href="#">Home</a>
                       <ul>
                         <li>
-                          <a href="index.html">MultiPage</a>
+                          <a href="#">MultiPage</a>
                         </li>
 
                         <li>
-                          <a href="index_singlepage.html">Single Page</a>
+                          <a href="#">Single Page</a>
                         </li>
                       </ul>
                     </li>
 
                     <li>
-                      <a href="about.html">Pages</a>
+                      <a href="#">Pages</a>
                       <ul>
                         <li>
-                          <a href="about.html">About</a>
+                          <a href="#">About</a>
                         </li>
 
                         <li>
-                          <a href="our-history.html">Our history</a>
+                          <a href="#">Our history</a>
                         </li>
 
                         <li>
-                          <a href="pricing.html">Pricing</a>
+                          <a href="#">Pricing</a>
                         </li>
                         <li>
-                          <a href="partners.html">Partners & Clients</a>
+                          <a href="#">Partners & Clients</a>
                         </li>
                         <li>
-                          <a href="comingsoon.html">Comingsoon</a>
-                        </li>
-
-                        <li>
-                          <a href="careers.html">Careers</a>
+                          <a href="#">Comingsoon</a>
                         </li>
 
                         <li>
-                          <a href="shortcodes_iconbox.html">Shortcodes</a>
+                          <a href="#">Careers</a>
+                        </li>
+
+                        <li>
+                          <a href="#">Shortcodes</a>
                           <ul>
                             <li>
-                              <a href="shortcodes_typography.html">
+                              <a href="#">
                                 Typography
                               </a>
                             </li>
                             <li>
-                              <a href="shortcodes_buttons.html">Buttons</a>
+                              <a href="#">Buttons</a>
                             </li>
                             <li>
-                              <a href="shortcodes_pricing.html">Pricing</a>
+                              <a href="#">Pricing</a>
                             </li>
                             <li>
-                              <a href="shortcodes_iconbox.html">Icon Boxes</a>
+                              <a href="#">Icon Boxes</a>
                             </li>
                             <li>
-                              <a href="shortcodes_progress.html">Progress</a>
+                              <a href="#">Progress</a>
                             </li>
                             <li>
-                              <a href="shortcodes_tabs.html">
+                              <a href="#">
                                 Tabs &amp; Collapse
                               </a>
                             </li>
                             <li>
-                              <a href="shortcodes_bootstrap.html">
+                              <a href="#">
                                 Bootstrap Elements
                               </a>
                             </li>
                             <li>
-                              <a href="shortcodes_animation.html">Animation</a>
+                              <a href="#">Animation</a>
                             </li>
                           </ul>
                         </li>
 
                         <li>
-                          <a href="shortcodes_widgets_default.html">Widgets</a>
+                          <a href="#">Widgets</a>
                           <ul>
                             <li>
-                              <a href="shortcodes_widgets_default.html">
+                              <a href="#">
                                 Default Widgets
                               </a>
                             </li>
                             <li>
-                              <a href="shortcodes_widgets_shop.html">
+                              <a href="#">
                                 Shop Widgets
                               </a>
                             </li>
                             <li>
-                              <a href="shortcodes_widgets_custom.html">
+                              <a href="#">
                                 Custom Widgets
                               </a>
                             </li>
                           </ul>
                         </li>
                         <li>
-                          <a href="services.html">Services</a>
+                          <a href="#">Services</a>
                           <ul>
                             <li>
-                              <a href="services.html">Services 1</a>
+                              <a href="#">Services 1</a>
                             </li>
                             <li>
-                              <a href="services2.html">Services 2</a>
+                              <a href="#">Services 2</a>
                             </li>
                             <li>
-                              <a href="service-single.html">Single Service</a>
+                              <a href="#">Single Service</a>
                             </li>
                             <li>
-                              <a href="service-single2.html">
+                              <a href="#">
                                 Single Service 2
                               </a>
                             </li>
                           </ul>
                         </li>
                         <li>
-                          <a href="gallery-image.html">Gallery</a>
+                          <a href="#">Gallery</a>
                           <ul>
                             <li>
-                              <a href="gallery-image.html">Image Only</a>
+                              <a href="#">Image Only</a>
                               <ul>
                                 <li>
-                                  <a href="gallery-image-2-cols.html">
+                                  <a href="#">
                                     2 columns
                                   </a>
                                 </li>
                                 <li>
-                                  <a href="gallery-image.html">3 columns</a>
+                                  <a href="#">3 columns</a>
                                 </li>
                                 <li>
-                                  <a href="gallery-image-4-cols-fullwidth.html">
+                                  <a href="#">
                                     4 columns fullwidth
                                   </a>
                                 </li>
@@ -327,18 +328,18 @@ const Header1 = () => {
                             </li>
 
                             <li>
-                              <a href="gallery-title.html">Image With Title</a>
+                              <a href="#">Image With Title</a>
                               <ul>
                                 <li>
-                                  <a href="gallery-title-2-cols.html">
+                                  <a href="#">
                                     2 columns
                                   </a>
                                 </li>
                                 <li>
-                                  <a href="gallery-title.html">3 column</a>
+                                  <a href="#">3 column</a>
                                 </li>
                                 <li>
-                                  <a href="gallery-title-4-cols-fullwidth.html">
+                                  <a href="#">
                                     4 columns fullwidth
                                   </a>
                                 </li>
@@ -346,20 +347,20 @@ const Header1 = () => {
                             </li>
 
                             <li>
-                              <a href="gallery-excerpt.html">
+                              <a href="#">
                                 Image with Excerpt
                               </a>
                               <ul>
                                 <li>
-                                  <a href="gallery-excerpt-2-cols.html">
+                                  <a href="#">
                                     2 columns
                                   </a>
                                 </li>
                                 <li>
-                                  <a href="gallery-excerpt.html">3 column</a>
+                                  <a href="#">3 column</a>
                                 </li>
                                 <li>
-                                  <a href="gallery-excerpt-4-cols-fullwidth.html">
+                                  <a href="#">
                                     4 columns fullwdith
                                   </a>
                                 </li>
@@ -367,13 +368,13 @@ const Header1 = () => {
                             </li>
 
                             <li>
-                              <a href="gallery-single.html">Gallery Item</a>
+                              <a href="#">Gallery Item</a>
                               <ul>
                                 <li>
-                                  <a href="gallery-single.html">Style 1</a>
+                                  <a href="#">Style 1</a>
                                 </li>
                                 <li>
-                                  <a href="gallery-single2.html">Style 2</a>
+                                  <a href="#">Style 2</a>
                                 </li>
                               </ul>
                             </li>
@@ -381,167 +382,167 @@ const Header1 = () => {
                         </li>
 
                         <li>
-                          <a href="team.html">Team</a>
+                          <a href="#">Team</a>
                           <ul>
                             <li>
-                              <a href="team.html">Team List</a>
+                              <a href="#">Team List</a>
                             </li>
                             <li>
-                              <a href="team-single.html">Team Member</a>
+                              <a href="#">Team Member</a>
                             </li>
                           </ul>
                         </li>
 
                         <li>
-                          <a href="faq.html">FAQ</a>
+                          <a href="#">FAQ</a>
                           <ul>
                             <li>
-                              <a href="faq.html">FAQ</a>
+                              <a href="#">FAQ</a>
                             </li>
                             <li>
-                              <a href="faq2.html">FAQ 2</a>
+                              <a href="#">FAQ 2</a>
                             </li>
                           </ul>
                         </li>
                         <li>
-                          <a href="404.html">404</a>
+                          <a href="#">404</a>
                         </li>
                       </ul>
                     </li>
 
                     <li>
                       <a href="#">Features</a>
-                      <div class="mega-menu">
-                        <ul class="mega-menu-row">
-                          <li class="mega-menu-col">
+                      <div className="mega-menu">
+                        <ul className="mega-menu-row">
+                          <li className="mega-menu-col">
                             <a href="#">Headers</a>
                             <ul>
                               <li>
-                                <a href="header1.html">Header Type 1</a>
+                                <a href="#">Header Type 1</a>
                               </li>
                               <li>
-                                <a href="header2.html">Header Type 2</a>
+                                <a href="#">Header Type 2</a>
                               </li>
                               <li>
-                                <a href="header3.html">Header Type 3</a>
+                                <a href="#">Header Type 3</a>
                               </li>
                               <li>
-                                <a href="header4.html">Header Type 4</a>
+                                <a href="#">Header Type 4</a>
                               </li>
                               <li>
-                                <a href="header5.html">Header Type 5</a>
+                                <a href="#">Header Type 5</a>
                               </li>
                               <li>
-                                <a href="header6.html">Header Type 6</a>
+                                <a href="#">Header Type 6</a>
                               </li>
                             </ul>
                           </li>
-                          <li class="mega-menu-col">
+                          <li className="mega-menu-col">
                             <a href="#">Side Menus</a>
                             <ul>
                               <li>
-                                <a href="header-side.html">Push Left</a>
+                                <a href="#">Push Left</a>
                               </li>
                               <li>
-                                <a href="header-side-right.html">Push Right</a>
+                                <a href="#">Push Right</a>
                               </li>
                               <li>
-                                <a href="header-side-slide.html">Slide Left</a>
+                                <a href="#">Slide Left</a>
                               </li>
                               <li>
-                                <a href="header-side-slide-right.html">
+                                <a href="#">
                                   Slide Right
                                 </a>
                               </li>
                               <li>
-                                <a href="header-side-sticked.html">
+                                <a href="#">
                                   Sticked Left
                                 </a>
                               </li>
                               <li>
-                                <a href="header-side-sticked-right.html">
+                                <a href="#">
                                   Sticked Right
                                 </a>
                               </li>
                             </ul>
                           </li>
-                          <li class="mega-menu-col">
-                            <a href="title1.html">Title Sections</a>
+                          <li className="mega-menu-col">
+                            <a href="#">Title Sections</a>
                             <ul>
                               <li>
-                                <a href="title1.html">Title section 1</a>
+                                <a href="#">Title section 1</a>
                               </li>
                               <li>
-                                <a href="title2.html">Title section 2</a>
+                                <a href="#">Title section 2</a>
                               </li>
                               <li>
-                                <a href="title3.html">Title section 3</a>
+                                <a href="#">Title section 3</a>
                               </li>
                               <li>
-                                <a href="title4.html">Title section 4</a>
+                                <a href="#">Title section 4</a>
                               </li>
                               <li>
-                                <a href="title5.html">Title section 5</a>
+                                <a href="#">Title section 5</a>
                               </li>
                               <li>
-                                <a href="title6.html">Title section 6</a>
+                                <a href="#">Title section 6</a>
                               </li>
                             </ul>
                           </li>
-                          <li class="mega-menu-col">
-                            <a href="footer1.html#footer">Footers</a>
+                          <li className="mega-menu-col">
+                            <a href="#">Footers</a>
                             <ul>
                               <li>
-                                <a href="footer1.html#footer">Footer Type 1</a>
+                                <a href="#">Footer Type 1</a>
                               </li>
                               <li>
-                                <a href="footer2.html#footer">Footer Type 2</a>
+                                <a href="#">Footer Type 2</a>
                               </li>
                               <li>
-                                <a href="footer3.html#footer">Footer Type 3</a>
+                                <a href="#">Footer Type 3</a>
                               </li>
                               <li>
-                                <a href="footer4.html#footer">Footer Type 4</a>
+                                <a href="#">Footer Type 4</a>
                               </li>
                               <li>
-                                <a href="footer5.html#footer">Footer Type 5</a>
+                                <a href="#">Footer Type 5</a>
                               </li>
                               <li>
-                                <a href="footer6.html#footer">Footer Type 6</a>
+                                <a href="#">Footer Type 6</a>
                               </li>
                             </ul>
                           </li>
-                          <li class="mega-menu-col">
-                            <a href="copyright1.html#copyright">Copyright</a>
+                          <li className="mega-menu-col">
+                            <a href="#">Copyright</a>
 
                             <ul>
                               <li>
-                                <a href="copyright1.html#copyright">
+                                <a href="#">
                                   Copyright 1
                                 </a>
                               </li>
                               <li>
-                                <a href="copyright2.html#copyright">
+                                <a href="#">
                                   Copyright 2
                                 </a>
                               </li>
                               <li>
-                                <a href="copyright3.html#copyright">
+                                <a href="#">
                                   Copyright 3
                                 </a>
                               </li>
                               <li>
-                                <a href="copyright4.html#copyright">
+                                <a href="#">
                                   Copyright 4
                                 </a>
                               </li>
                               <li>
-                                <a href="copyright5.html#copyright">
+                                <a href="#">
                                   Copyright 5
                                 </a>
                               </li>
                               <li>
-                                <a href="copyright6.html#copyright">
+                                <a href="#">
                                   Copyright 6
                                 </a>
                               </li>
@@ -552,29 +553,29 @@ const Header1 = () => {
                     </li>
 
                     <li>
-                      <a href="blog-right.html">Blog</a>
+                      <a href="#">Blog</a>
                       <ul>
                         <li>
-                          <a href="blog-right.html">Right Sidebar</a>
+                          <a href="#">Right Sidebar</a>
                         </li>
                         <li>
-                          <a href="blog-left.html">Left Sidebar</a>
+                          <a href="#">Left Sidebar</a>
                         </li>
                         <li>
-                          <a href="blog-full.html">No Sidebar</a>
+                          <a href="#">No Sidebar</a>
                         </li>
 
                         <li>
-                          <a href="blog-single-right.html">Post</a>
+                          <a href="#">Post</a>
                           <ul>
                             <li>
-                              <a href="blog-single-right.html">Right Sidebar</a>
+                              <a href="#">Right Sidebar</a>
                             </li>
                             <li>
-                              <a href="blog-single-left.html">Left Sidebar</a>
+                              <a href="#">Left Sidebar</a>
                             </li>
                             <li>
-                              <a href="blog-single-full.html">No Sidebar</a>
+                              <a href="#">No Sidebar</a>
                             </li>
                           </ul>
                         </li>
@@ -582,107 +583,107 @@ const Header1 = () => {
                     </li>
 
                     <li>
-                      <a href="shop-right.html">Shop</a>
+                      <a href="#">Shop</a>
                       <ul>
                         <li>
-                          <a href="shop-account-dashboard.html">Account</a>
+                          <a href="#">Account</a>
                           <ul>
                             <li>
-                              <a href="shop-account-details.html">
+                              <a href="#">
                                 Account details
                               </a>
                             </li>
                             <li>
-                              <a href="shop-account-addresses.html">
+                              <a href="#">
                                 Addresses
                               </a>
                             </li>
                             <li>
-                              <a href="shop-account-address-edit.html">
+                              <a href="#">
                                 Edit Address
                               </a>
                             </li>
                             <li>
-                              <a href="shop-account-orders.html">Orders</a>
+                              <a href="#">Orders</a>
                             </li>
                             <li>
-                              <a href="shop-account-order-single.html">
+                              <a href="#">
                                 Single Order
                               </a>
                             </li>
                             <li>
-                              <a href="shop-account-downloads.html">
+                              <a href="#">
                                 Downloads
                               </a>
                             </li>
                             <li>
-                              <a href="shop-account-password-reset.html">
+                              <a href="#">
                                 Password Reset
                               </a>
                             </li>
                             <li>
-                              <a href="shop-account-login.html">Login/Logout</a>
+                              <a href="#">Login/Logout</a>
                             </li>
                           </ul>
                         </li>
                         <li>
-                          <a href="shop-full.html">Full layout</a>
+                          <a href="#">Full layout</a>
                         </li>
                         <li>
-                          <a href="shop-right.html">Right Sidebar</a>
+                          <a href="#">Right Sidebar</a>
                         </li>
                         <li>
-                          <a href="shop-left.html">Left Sidebar</a>
+                          <a href="#">Left Sidebar</a>
                         </li>
                         <li>
-                          <a href="shop-product-right.html">
+                          <a href="#">
                             Product Right Sidebar
                           </a>
                         </li>
                         <li>
-                          <a href="shop-product-left.html">
+                          <a href="#">
                             Product Left Sidebar
                           </a>
                         </li>
                         <li>
-                          <a href="shop-cart.html">Cart</a>
+                          <a href="#">Cart</a>
                         </li>
                         <li>
-                          <a href="shop-checkout.html">Checkout</a>
+                          <a href="#">Checkout</a>
                         </li>
                         <li>
-                          <a href="shop-order-received.html">Order Received</a>
+                          <a href="#">Order Received</a>
                         </li>
                       </ul>
                     </li>
 
                     <li>
-                      <a href="contact.html">Contact</a>
+                      <a href="#">Contact</a>
                       <ul>
                         <li>
-                          <a href="contact.html">Contact 1</a>
+                          <a href="#">Contact 1</a>
                         </li>
                         <li>
-                          <a href="contact2.html">Contact 2</a>
+                          <a href="#">Contact 2</a>
                         </li>
                         <li>
-                          <a href="contact3.html">Contact 3</a>
+                          <a href="#">Contact 3</a>
                         </li>
                         <li>
-                          <a href="contact4.html">Contact 4</a>
+                          <a href="#">Contact 4</a>
                         </li>
                       </ul>
                     </li>
                   </ul>
                 </nav>
               </div>
-              <div class="col-xl-3 col-md-7 col-12 d-flex justify-content-md-end">
-                <ul class="top-includes">
-                  <li class="metaphone">
+              <div className="col-xl-3 col-md-7 col-12 d-flex justify-content-md-end">
+                <ul className="top-includes">
+                  <li className="metaphone">
                     <a href="#">800 123 4567</a>
                   </li>
-                  <li class="special-menu">
-                    <span class="toggle_menu toggle_menu_side header-slide toggle_menu_side_special">
+                  <li className="special-menu">
+                    <span className="toggle_menu toggle_menu_side header-slide toggle_menu_side_special">
                       <span></span>
                     </span>
                   </li>
@@ -691,7 +692,7 @@ const Header1 = () => {
             </div>
           </div>
 
-          <span class="toggle_menu">
+          <span className="toggle_menu">
             <span>menu</span>
           </span>
         </header>
